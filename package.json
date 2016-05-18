@@ -1,0 +1,24 @@
+{
+  "name": "rnpm-plugin-upgrade",
+  "version": "0.26.0",
+  "description": "RNPM plugin to automatically perform native codemods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnpm/rnpm-plugin-upgrade.git"
+  },
+  "author": "Mike Grabowski <grabbou@gmail.com> (https://github.com/grabbou)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rnpm/rnpm-plugin-upgrade/issues"
+  },
+  "homepage": "https://github.com/rnpm/rnpm-plugin-upgrade#readme",
+  "dependencies": {
+    "npmlog": "^2.0.2",
+    "rnpm-plugin-link": "^1.7.4",
+    "xcode": "^0.8.2"
+  }
+}
