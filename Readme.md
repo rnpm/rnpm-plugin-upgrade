@@ -9,10 +9,12 @@ Run the following command from the project you are about to update:
 $ npm install -g rnpm-plugin-upgrade@0.26 --save-dev
 ```
 
-where the version is the exactly the same version you are upgrading your React Native to.
+where the version is the exactly the same version you are upgrading your React Native to
 
 Available versions:
-- `0.26.x` - upgrades from 0.25 to 0.26
+- `0.26` - upgrades from 0.25 to 0.26
+
+**Note**: Only major & minior versions have to be the same. `rnpm-upgrade` may use patch versions to fix small bugs, so it's advisable to install the last `patch` version available.
 
 ## Usage
 
