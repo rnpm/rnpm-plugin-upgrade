@@ -1,6 +1,6 @@
 {
   "name": "rnpm-plugin-upgrade",
-  "version": "0.26.0",
+  "version": "0.0.0",
   "description": "RNPM plugin to automatically perform native codemods",
   "main": "index.js",
   "scripts": {
