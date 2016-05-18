@@ -4,13 +4,13 @@ rnpm upgrade ![npm version](https://img.shields.io/npm/v/rnpm-plugin-upgrade.svg
 ## Installation
 
 ```bash
-$ npm install -g rnpm-plugin-upgrade@0.26.0
+$ npm install -g rnpm-plugin-upgrade@0.26
 ```
 
 where the version is the exactly the same version you are upgrading your React Native to.
 
 Available versions:
-- `0.26.0` - upgrades from 0.25 to 0.26
+- `0.26.x` - upgrades from 0.25 to 0.26
 
 ## Usage
 
