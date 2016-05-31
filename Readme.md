@@ -6,7 +6,7 @@ rnpm upgrade ![npm version](https://img.shields.io/npm/v/rnpm-plugin-upgrade.svg
 Run the following command from the project you are about to update:
 
 ```bash
-$ npm install -g rnpm-plugin-upgrade@0.26 --save-dev
+$ npm install rnpm-plugin-upgrade@0.26 --save-dev
 ```
 
 where the version is the exactly the same version you are upgrading your React Native to
